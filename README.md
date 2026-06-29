@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0735-asteroid-collision) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
