@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0069-sqrtx) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
 | [1095-find-in-mountain-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1095-find-in-mountain-array) |
