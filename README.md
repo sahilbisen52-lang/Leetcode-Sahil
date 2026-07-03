@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
