@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -131,9 +132,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
