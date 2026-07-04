@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0402-remove-k-digits) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
