@@ -1,43 +1,27 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> result=new ArrayList<>();
-
-        if(root==null){
-            return result;
-        }
-        Queue<TreeNode> queue=new LinkedList<>();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            int levelsize=queue.size();
-            List<Integer> currentlevelList=new ArrayList<>();
-            for(int i=0;i<levelsize;i++){
-                TreeNode currentnode=queue.poll();
-                currentlevelList.add(currentnode.val);
-
-                if(currentnode.left!=null){
-                    queue.add(currentnode.left);
-                }
-                if(currentnode.right!=null){
-                    queue.add(currentnode.right);
-                }
-            }
-            result.add(currentlevelList);
-        }
+        List<List<Integer>> result = new ArrayList<>();
+        // Helper function ko Root aur Level 0 ke sath bhej do
+        dfs(root, 0, result);
         return result;
+    }
+    
+    private void dfs(TreeNode node, int level, List<List<Integer>> result) {
+        // Base Case: Agar hawa hai, toh wapas jao
+        if (node == null) {
+            return;
+        }
+        
+        // Agar hum is level par pehli baar aaye hain, toh naya dibba banao
+        if (result.size() == level) {
+            result.add(new ArrayList<>());
+        }
+        
+        // Apne level wale dibbe mein apni value daal do
+        result.get(level).add(node.val);
+        
+        // Left aur Right bacho ko agle level (level + 1) ke liye bhej do
+        dfs(node.left, level + 1, result);
+        dfs(node.right, level + 1, result);
     }
 }
