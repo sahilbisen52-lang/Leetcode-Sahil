@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0875-koko-eating-bananas) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
 ## Interactive
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Sliding Window
 |  |
