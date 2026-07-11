@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0004-median-of-two-sorted-arrays) |
+| [0041-first-missing-positive](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0084-largest-rectangle-in-histogram) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
