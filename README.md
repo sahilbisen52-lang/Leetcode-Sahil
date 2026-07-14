@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0547-number-of-provinces) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1971-find-if-path-exists-in-graph) |
@@ -262,9 +264,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
