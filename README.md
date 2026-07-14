@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -248,5 +251,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
