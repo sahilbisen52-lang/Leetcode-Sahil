@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
 | [0735-asteroid-collision](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1095-find-in-mountain-array) |
