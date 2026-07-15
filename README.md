@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0048-rotate-image) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
