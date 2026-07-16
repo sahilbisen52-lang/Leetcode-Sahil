@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Merge Sort
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -287,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
