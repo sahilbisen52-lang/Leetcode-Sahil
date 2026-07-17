@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0735-asteroid-collision) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 ## Binary Search
