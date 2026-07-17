@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
