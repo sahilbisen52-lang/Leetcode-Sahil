@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0042-trapping-rain-water) |
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
+| [0905-sort-array-by-parity](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0905-sort-array-by-parity](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0905-sort-array-by-parity) |
 ## Merge Sort
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1095-find-in-mountain-array) |
