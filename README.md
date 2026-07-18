@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 ## String
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
