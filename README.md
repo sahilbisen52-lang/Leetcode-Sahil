@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 ## String
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0292-nim-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
