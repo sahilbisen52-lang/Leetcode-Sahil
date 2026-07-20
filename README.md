@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0709-to-lower-case) |
 ## Recursion
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Tree
 |  |
