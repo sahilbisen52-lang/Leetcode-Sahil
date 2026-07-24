@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2119-a-number-after-a-double-reversal) |
+| [2235-add-two-integers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2413-smallest-even-multiple) |
 ## String
 |  |
