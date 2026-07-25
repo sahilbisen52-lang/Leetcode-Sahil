@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2235-add-two-integers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1025-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -348,11 +350,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
 | ------- |
