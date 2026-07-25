@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0905-sort-array-by-parity) |
+| [2396-strictly-palindromic-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2769-find-the-maximum-achievable-number) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
