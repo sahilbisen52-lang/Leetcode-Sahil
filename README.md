@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0905-sort-array-by-parity) |
 | [2396-strictly-palindromic-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2396-strictly-palindromic-number) |
 ## Divide and Conquer
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0461-hamming-distance) |
 ## Hash Table
