@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0217-contains-duplicate) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0078-subsets) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0138-copy-list-with-random-pointer) |
