@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0424-longest-repeating-character-replacement) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0387-first-unique-character-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0525-contiguous-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0525-contiguous-array) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0387-first-unique-character-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
