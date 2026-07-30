@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1025-divisor-game) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1688-count-of-matches-in-tournament) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/2119-a-number-after-a-double-reversal) |
