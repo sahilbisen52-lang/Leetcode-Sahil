@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1095-find-in-mountain-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0709-to-lower-case](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sahilbisen52-lang/Leetcode-Sahil/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Recursion
 |  |
 | ------- |
